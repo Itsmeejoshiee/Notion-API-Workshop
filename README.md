@@ -1,5 +1,5 @@
 # Notion-API-Workshop
-![alt text](https://www.daily.co/blog/authorizing-dailys-chrome-extension-beta-transcription-feature-with-notions-api/)
+![alt text](https://www.daily.co/blog/content/images/2021/08/Part-3-Directory-Image@2x.png)
 
 ## Overview
 This script interacts with the Notion API to manage tasks. It allows users to view tasks, add new tasks, and update the status of existing tasks in a Notion database.
